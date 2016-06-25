@@ -1,0 +1,72 @@
+body{
+	background-image: url(../img/bg.jpg
+		);
+	
+}
+.wrapper{
+	width: 100%;
+	font-family: Tahoma, Arial;
+	}
+
+	 /*<TOP>*/
+.logo{
+	margin: 137px 268px 0px;
+}
+.palm-tree{
+	position: absolute;
+	left: 408px;
+  top: 62px;
+}
+.slogan{
+	display: inline-block;
+	padding-left: 340px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	}
+.top_img{
+	width: 70%;
+	float: left;
+}
+.top_contacts{
+	width: 27%;
+	float: right;
+	margin-top: 153px;
+	color:white;
+	font-size: 9px;
+	line-height: 10px;
+}
+.text{
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 20px;
+}
+    /*<COUNTRIES>*/ 
+.countries{
+	clear: both;
+	padding-top: 15px;
+}
+.first_line, .second_line{
+	margin-left: 263px;
+}
+.pic{
+	display: inline-block;
+}
+.pic a{
+	text-decoration: none;
+	color: white;
+}
+.pic figcaption{
+	text-align: center;
+}
+.second_line{
+	margin-top: 40px;
+	margin-bottom: 180px;
+}
+   /*<FOOTER>*/
+footer{
+	padding-bottom: 40px;
+	color: white;
+	text-align: center;
+	font-size: 11px;
+}
